@@ -13,6 +13,9 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'devise', '~> 4.2.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
