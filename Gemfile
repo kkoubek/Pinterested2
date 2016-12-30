@@ -14,7 +14,7 @@ group :production do
 end
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-gem 'devise', '~> 4.2.0'
+gem 'devise'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
